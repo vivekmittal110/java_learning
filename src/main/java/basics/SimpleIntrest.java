@@ -1,0 +1,10 @@
+package basics;
+
+public class SimpleIntrest {
+    public static void main(String[] args) {
+        int p = 1000;
+        int r = 12;
+        int t = 2;
+        int si = (p * r * t) / 100;
+    }
+}
