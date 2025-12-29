@@ -6,5 +6,6 @@ public class SimpleIntrest {
         int r = 12;
         int t = 2;
         int si = (p * r * t) / 100;
+        System.out.println(si);
     }
 }
