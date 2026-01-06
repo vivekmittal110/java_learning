@@ -19,5 +19,9 @@ public class oopsTheory {
 1:31:33 static keyword
 1:43:30 static functions
 1:51:37 Fraction class
-2:12:19 Creating ArrayList*/
+2:12:19 Creating ArrayList
+4 pillors of oops
+interfaces
+
+*/
 }
