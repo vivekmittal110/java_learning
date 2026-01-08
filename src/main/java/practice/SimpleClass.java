@@ -11,5 +11,6 @@ public class SimpleClass {
         e1.id = 111;
         e1.name = "vivek";
         e1.salary = 560000;
+        //finally practice of oops will be completed tommorow
     }
 }
